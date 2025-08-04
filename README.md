@@ -28,23 +28,11 @@
 
 ---
 
-### 📌 Highlighted Projects
-
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| [Vehicle Rental System](https://github.com/yourusername/vehicle-rental-system) | Java CLI application for vehicle rentals with SQLite persistence and layered architecture | Java, SQLite |
-| [Money Manager](https://github.com/yourusername/money-manager) | Personal finance CLI tool with local data persistence | Java, SQLite |
-| [University Grade Tracker](https://github.com/yourusername/university-grade-tracker) *(demo)* | Simple app for managing courses and grades | Java, CLI |
-
-> *(Replace with your actual repositories and links)*
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gbrisc427&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrisc427&layout=compact&theme=gruvbox" />
 </p>
 
 ---
