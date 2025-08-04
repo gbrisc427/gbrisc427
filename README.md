@@ -31,7 +31,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gbrisc427&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gbrisc427&show_icons=true&theme=gruvbox" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrisc427&layout=compact&theme=gruvbox" />
 </p>
 
