@@ -12,8 +12,8 @@
 ---
 
 ### 📈 GitHub Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gbrisc427&theme=blood-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gbrisc427&theme=blood-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats" style="aling:center"><img src="https://github-readme-streak-stats.herokuapp.com?user=gbrisc427&theme=blood-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
+
 ---
 
 
