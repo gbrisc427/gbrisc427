@@ -1,9 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Gabriel Serrano</h1>
-<h3 align="center">Software Engineering Student | Passionate about Software Architecture</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Final+Year+Software+Engineering+Student;Always+learning+and+building;Clean+code+enthusiast&center=true&width=500&height=45" />
-</p>
+<img width="1024" height="1536" alt="20250806_2051_Tecnología Creativa Sobria_simple_compose_01k20bfy5teb2b5r25q3c4psd8" src="https://github.com/user-attachments/assets/8b12218f-85b9-4e1e-912e-8847b885665d" />
+
+<h1> 🎱 Hi, I'm Gabriel !!</h1>
+<h3> Software Engineering Student </h3>
 
 ---
 
@@ -14,25 +13,10 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gbrisc427&show_icons=true&theme=gruvbox" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrisc427&layout=compact&theme=gruvbox" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gbrisc427&theme=blood-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
 </p>
 
 ---
